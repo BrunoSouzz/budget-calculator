@@ -1,44 +1,44 @@
-💰 Calculadora de Orçamento
+# Budget-calculator💰
 
-Uma aplicação simples desenvolvida para ajudar usuários a gerenciar suas finanças pessoais, registrando despesas e receitas de forma prática e rápida.
+> A simple application developed to help users manage their personal finances, easily tracking expenses and income.
 
-🚀 Funcionalidades
+---
 
-Adicionar e remover despesas e receitas
+## 🚀 Features
 
-Calcular o saldo total automaticamente
+- Add and remove expenses and income
+- Automatically calculate total balance
+- User-friendly interface
+- Local data storage
 
-Interface amigável e intuitiva
+---
 
-Dados armazenados localmente
+## 🛠️ Technologies Used
 
-🛠️ Tecnologias Utilizadas
+- **Language: Python
+- **Interface: Tkinter (or HTML/CSS/JS, depending on your project)
+- **Others: (add libraries, frameworks, etc.)
 
-Linguagem: Python
+---
 
-Interface: Tkinter (ou HTML/CSS/JS, conforme o caso)
+# 💰 Calculadora de Orçamento
 
-Outros: (adicione bibliotecas, frameworks, etc.)
+> Uma aplicação simples desenvolvida para ajudar usuários a gerenciar suas finanças pessoais, registrando despesas e receitas de forma prática e rápida.
 
+---
 
-💰 Budget Calculator
+## 🚀 Funcionalidades
 
-A simple application developed to help users manage their personal finances, easily tracking expenses and income.
+- Adicionar e remover despesas e receitas 
+- Calcular o saldo total automaticamente
+- Interface amigável e intuitiva 
+- Dados armazenados localmente   
 
-🚀 Features
+---
 
-Add and remove expenses and income
+## 🛠️ Tecnologias Utilizadas
 
-Automatically calculate total balance
+- **Linguagem:** Python
+- **Interface:** Tkinter (ou HTML/CSS/JS, conforme o caso) 
+- **Outros:** (adicione bibliotecas, frameworks, etc.) 
 
-User-friendly interface
-
-Local data storage
-
-🛠️ Technologies Used
-
-Language: Python
-
-Interface: Tkinter (or HTML/CSS/JS, depending on your project)
-
-Others: (add libraries, frameworks, etc.)
